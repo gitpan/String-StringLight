@@ -3,7 +3,7 @@ package String::StringLight;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 BEGIN {
 	use Exporter;
@@ -61,6 +61,10 @@ StringLight - a module for Textfunctions
   trimArray($string, $string1);
   $string = space(3)."Test";
   $string = left($string,20);   
+
+=head1 ABSTRACT
+
+Test
 
 =head1 DESCRIPTION
 

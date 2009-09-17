@@ -4,3 +4,5 @@ Revision history for Perl extension String::StringLight.
 	- original version; created by h2xs 1.23 with options
 		-XA -n String::StringLight
 
+0.02  Thu Sep 17 14:22:04 2009
+	- bugfix: Doku
